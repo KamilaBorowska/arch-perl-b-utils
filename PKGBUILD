@@ -3,7 +3,7 @@
 
 pkgname=perl-b-utils
 pkgver=0.21
-pkgrel=1
+pkgrel=3
 pkgdesc='Helper functions for op tree manipulation'
 arch=('i686' 'x86_64')
 url='http://search.cpan.org/dist/B-Utils'
